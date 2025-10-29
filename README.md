@@ -26,5 +26,6 @@ This project demonstrates client-server communication, message persistence in me
 
 ---
 
-## 🏗️ Project Structure
+
+
 
