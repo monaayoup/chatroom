@@ -5,9 +5,9 @@ This project demonstrates client-server communication, message persistence in me
 
 ---
 
-## 📘 Assignment Overview
+## 📘  Overview
 
-> **Assignment 04: Simple Chatroom**
+> **: Simple Chatroom**
 
 ### Requirements
 1. **Client**
